@@ -21,4 +21,4 @@ https://bobbyshih.shinyapps.io/Biomart_GeneNameConverter/
 * The file test.csv is used to generate the preview images below. If you are having issues, please download this file as a reference
 
 ### Preview 
-![](https://github.com/bobbyshih/biomaRt-genelist-converter/blob/Images/preview.png?raw=true)
+![](Images/preview.png)
