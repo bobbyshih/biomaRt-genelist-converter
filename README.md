@@ -23,4 +23,4 @@ https://bobbyshih.shinyapps.io/Biomart_GeneNameConverter/
 ### Preview 
 ![](https://github.com/bobbyshih/biomaRt-genelist-converter/blob/main/biomaRt Gene List Converter Preview.png?raw=true)
 
-![images/biomaRt Gene List Converter Preview.png](images/biomaRt Gene List Converter Preview.png?raw=true)
+![Images/biomaRt Gene List Converter Preview.png](Images/biomaRt Gene List Converter Preview.png?raw=true)
