@@ -7,9 +7,9 @@ Convert a list of genes using one identifier to another and/or functionally anno
 
 Or copy and paste link into your web browser:
 
-'''
+```
 https://bobbyshih.shinyapps.io/Biomart_GeneNameConverter/
-'''
+```
 
 ### How to use
 * Upload your list of genes as a .csv file
